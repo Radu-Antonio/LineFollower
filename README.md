@@ -41,7 +41,7 @@ The robot uses a PID control algorithm to adjust the speed of the motors based o
  <summary><b>Components diagram</b></summary>
 
  <div align="center"> 
-  <img width="480px" src="https://github.com/anamariapanait10/Introduction-To-Robotics/blob/main/Homework/LineFollower/ComponentsDiagram.jpeg" alt="Photo">
+  <img width="480px" src="https://github.com/Radu-Antonio/LineFollower/blob/master/ComponentsDiagram.jpeg" alt="Photo">
  </div>
 </details>
 
@@ -51,13 +51,13 @@ The robot uses a PID control algorithm to adjust the speed of the motors based o
 
 <br>
 
-[💻 <b>Code</b>](https://github.com/anamariapanait10/Introduction-To-Robotics/blob/main/Homework/LineFollower/lineFollower/lineFollower.ino)
+[💻 <b>Code</b>](https://github.com/Radu-Antonio/LineFollower/blob/master/lineFollower/lineFollower.ino)
 
 <details>
  <summary><b>Photo</b></summary>
 
  <div align="center"> 
-  <img width="480px" src="https://github.com/anamariapanait10/Introduction-To-Robotics/blob/main/Homework/LineFollower/LineFollower-Photo.jpeg" alt="Photo">
+  <img width="480px" src="https://github.com/Radu-Antonio/LineFollower/blob/master/LineFollower-Photo.jpeg" alt="Photo">
  </div>
 </details>
 
